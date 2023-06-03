@@ -1,4 +1,5 @@
-# KJ-Tools
+# KJ-Tools  
+[英文](https://github.com/yangouyu/KJ-Tools/blob/main/README_en.md)    
 快捷工具箱是一个大型的工具仓库，用户可以定制或二次开发对对工具扩充或者功能扩展。  
 
 # 项目协议  
