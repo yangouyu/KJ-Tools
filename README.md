@@ -16,5 +16,3 @@ If you use this program, you accept the above agreement.
 
 Tools are only for convenience, illegal tools are prohibited to use this platform for secondary development, in addition, please respect copyright and support all kinds of genuine tools.
 This project is only for the exploration of technical feasibility and research, and does not accept any commercial (including but not limited to advertising, etc.) cooperation and donations.
-
-Translated with www.DeepL.com/Translator (free version)
