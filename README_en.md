@@ -1,18 +1,19 @@
-# KJ-Tools
-快捷工具箱是一个大型的工具仓库，用户可以定制或二次开发对对工具扩充或者功能扩展。  
+# KJ-tools   
+[Chinese](https://github.com/yangouyu/KJ-Tools/blob/main/README_en.md)  
+The KJ-tools is a large tool repository that users can customize or redevelop to extend tools or functions.
+# Project Agreement
+This project is distributed under the Apache License 2.0, and the following agreement is supplemental to the Apache License 2.0, and in case of conflict, the following agreement shall prevail.  
 
-# 项目协议  
-本项目基于 Apache License 2.0 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。  
+Terminology: The term "Project" in this Agreement refers to KJ-Tools, and the term "User" refers to the user who signs this Agreement.  
 
-词语约定：本协议中的“本项目”指快捷工具箱(KJ-Tools)；“使用者”指签署本协议的使用者。  
+1. The data source principle of this project is divided into two parts, part of the project is the development of some tools data, the other part is the good lovers according to the structure of the software independently developed derivative data, the purpose of the project data for display purposes, the enthusiast separately developed data the project is not responsible for it.  
+2. The process of using this project may generate copyright data, for these copyright data, the project does not have their ownership, in order to avoid causing infringement, the user must clear the copyright data generated in the process of using this project within 24 hours.  
+3. Some of the resources used in this project, including but not limited to fonts and images, are from the Internet and may be removed by contacting the project in case of infringement.  
+4. The user is responsible for any direct, indirect, special, incidental or consequential damages of any nature arising out of the use of this project including those arising out of this agreement or out of the use or inability to use this project (including, without limitation, damages for loss of goodwill, downtime, computer failure or malfunction, or any and all other commercial damages or losses).  
+5. This project is completely free and open source on GitHub and is intended for use by people around the world to learn about the technology. The project does not guarantee that the technology in the project may violate local laws and regulations, and any use of the project in violation of local laws and regulations is prohibited. The user is responsible for any violation of law caused by the use of this project knowingly or unknowingly that local laws and regulations do not allow it, and the project will not be liable for any direct, indirect, special, incidental or consequential liability resulting therefrom.    
 
-1. 本项目的数据来源原理分为两部分，一部分是本项目制定的一些工具数据，另一部分是好爱者根据本软件结构自主开发的衍生数据，本项目数据目的为展示所用，爱好者另行开发的数据本项目不对其负责。  
-2. 使用本项目的过程中可能会产生版权数据，对于这些版权数据，本项目不拥有它们的所有权，为了避免造成侵权，使用者务必在24小时内清除使用本项目的过程中所产生的版权数据。  
-3. 本项目内使用的部分包括但不限于字体、图片等资源来源于互联网，如果出现侵权可联系本项目移除。  
-4. 由于使用本项目产生的包括由于本协议或由于使用或无法使用本项目而引起的任何性质的任何直接、间接、特殊、偶然或结果性损害（包括但不限于因商誉损失、停工、计算机故障或故障引起的损害赔偿，或任何及所有其他商业损害或损失）由使用者负责。  
-5. 本项目完全免费，且开源发布于 GitHub 面向全世界人用作对技术的学习交流，本项目不对项目内的技术可能存在违反当地法律法规的行为作保证，禁止在违反当地法律法规的情况下使用本项目，对于使用者在明知或不知当地法律法规不允许的情况下使用本项目所造成的任何违法违规行为由使用者承担，本项目不承担由此造成的任何直接、间接、特殊、偶然或结果性责任。  
 
-若你使用了本项目，将代表你接受以上协议。  
+If you use this program, you accept the above agreement.
 
-工具只是为了方便，违法工具禁止利用本平台二次开发，另外请尊重版权，支持各类正版工具。  
-本项目仅用于对技术可行性的探索及研究，不接受任何商业（包括但不限于广告等）合作及捐赠。  
+Tools are only for convenience, illegal tools are prohibited to use this platform for secondary development, in addition, please respect copyright and support all kinds of genuine tools.
+This project is only for the exploration of technical feasibility and research, and does not accept any commercial (including but not limited to advertising, etc.) cooperation and donations.
